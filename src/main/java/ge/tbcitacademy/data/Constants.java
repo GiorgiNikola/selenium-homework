@@ -1,0 +1,13 @@
+package ge.tbcitacademy.data;
+
+public class Constants {
+    public static final String dynamicControlsLink = "https://the-internet.herokuapp.com/dynamic_controls",
+            enableText = "It's enabled!", disableBtn = "Disable",
+            tbcText = "TBC IT Academy", headingText = "Dynamic Controls",
+            dragAndDropLink = "https://the-internet.herokuapp.com/drag_and_drop",
+            descriptionText = "This example demonstrates when elements (e.g., checkbox, input field, etc.) are changed asynchronously.",
+            trueText = "true", link = "http://elementalselenium.com/",
+            successLink = "https://ultimateqa.com/testimonials/",
+            ultimateQALink = "https://ultimateqa.com/automation";
+
+}
