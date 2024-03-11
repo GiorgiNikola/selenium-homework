@@ -12,6 +12,6 @@ public class Util {
             By locator = By.xpath("//*[contains(text(), '" + visibleText + "')]");
             ((WebElement) element).findElement(locator).click();
         }else throw new IllegalArgumentException("Illegal element is passed!");
-        System.out.println("I AM A CHANGE MEANWHILE");
+        System.out.println("I AM A FIX");
     }
 }
