@@ -15,5 +15,11 @@ public class Constants {
             classText = "class", addedManuallyText = "added-manually",
             onClickText = "onClick", deleteElementText = "deleteElement()",
             challengingDomLink = "http://the-internet.herokuapp.com/challenging_dom",
-            loremText = "Lorem";
+            loremText = "Lorem", dropDownLink = "https://tympanus.net/Tutorials/CustomDropDownListStyling/",
+            githubText = "Github", registerLink = "https://techcanvass.com/examples/register.html",
+            progressBarLink = "https://demoqa.com/progress-bar",
+            accessGranted = "ACCESS GRANTED", hundredPercent = "100%",
+            firstName = "John", lastName = "Doe", userAddress ="Wall street",
+            userCity = "New York", userPhone = "123456789",
+            modelVisibleText = "Mega 123 Medium screen";
 }
