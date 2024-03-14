@@ -21,5 +21,15 @@ public class Constants {
             accessGranted = "ACCESS GRANTED", hundredPercent = "100%",
             firstName = "John", lastName = "Doe", userAddress ="Wall street",
             userCity = "New York", userPhone = "123456789",
-            modelVisibleText = "Mega 123 Medium screen";
+            modelVisibleText = "Mega 123 Medium screen",
+            iFrameLink = "http://the-internet.herokuapp.com/iframe",
+            alertsLink = "https://demoqa.com/alerts",
+            hereGoesText = "Here Goes",
+            techListicLink = "https://www.techlistic.com/2017/02/automate-demo-web-table-with-selenium.html",
+            techCanvasslink = "https://techcanvass.com/Examples/webtable.html",
+            cosmoCodeLink = "https://cosmocode.io/automation-practice-webtable/",
+            qavBoxLink = "https://qavbox.github.io/demo/webtable/",
+            helenBennettText = "Helen Bennett", mecca = "Mecca", baleno = "Baleno",
+            consequuntur7Text = "Consequuntur7", algerianDinar = "Algerian Dinar",
+            sanFranciscoText = "San Francisco";
 }
