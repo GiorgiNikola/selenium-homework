@@ -17,7 +17,7 @@ public class TablesTest {
     public void setup(){
         WebDriverManager.chromedriver().setup();
         ChromeOptions options = new ChromeOptions();
-        options.addExtensions(new File("C:/Users/giorg/OneDrive/Desktop/TBC-Test-Automation-course/Extentions/Adblock.crx"));
+        options.addExtensions(new File("src/Extensions/Adblock.crx"));
         driver = new ChromeDriver(options);
         driver.manage().window().maximize();
     }

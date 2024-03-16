@@ -31,5 +31,14 @@ public class Constants {
             qavBoxLink = "https://qavbox.github.io/demo/webtable/",
             helenBennettText = "Helen Bennett", mecca = "Mecca", baleno = "Baleno",
             consequuntur7Text = "Consequuntur7", algerianDinar = "Algerian Dinar",
-            sanFranciscoText = "San Francisco";
+            sanFranciscoText = "San Francisco",
+            webDriverUniversityLink = "http://webdriveruniversity.com/To-Do-List/index.html",
+            webDriverUniversityScrollingLink = "http://webdriveruniversity.com/Scrolling/index.html",
+            techlistic = "Follow Techlistic", webTableText = "2.2. Types of Web Table",
+            zeroEntries = "0 Entries", nestedFramesLink = "https://the-internet.herokuapp.com/nested_frames",
+            windowsLink = "https://the-internet.herokuapp.com/windows",
+            anotherAlertsLink = "https://the-internet.herokuapp.com/javascript_alerts",
+            testAutoLink = "https://practicetestautomation.com/practice-test-exceptions/",
+            exceptionText = "Exception is caught: ",
+            infiniteScrollLink = "https://the-internet.herokuapp.com/infinite_scroll";
 }
