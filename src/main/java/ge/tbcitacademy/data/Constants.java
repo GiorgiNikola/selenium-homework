@@ -40,5 +40,9 @@ public class Constants {
             anotherAlertsLink = "https://the-internet.herokuapp.com/javascript_alerts",
             testAutoLink = "https://practicetestautomation.com/practice-test-exceptions/",
             exceptionText = "Exception is caught: ",
-            infiniteScrollLink = "https://the-internet.herokuapp.com/infinite_scroll";
+            infiniteScrollLink = "https://the-internet.herokuapp.com/infinite_scroll",
+            chromeName = "chrome", firefoxName = "firefox", edgeName = "edge",
+            extensionPath = "src/Extensions/Adblock.crx",
+            activeTemplateText = "active_template", pubSiteText = "pub_site",
+            myCookieText = "myCookie", autoCompleteLink = "https://demo.automationtesting.in/AutoComplete.html";
 }
