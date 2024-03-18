@@ -74,6 +74,8 @@ public class CookiesTest {
             }
         }
         Assert.assertTrue(flag);
+        // ეს სიაუთი გიტის სტეპისთვის
+        System.out.println("hotfix branch");
     }
 
     @Test
